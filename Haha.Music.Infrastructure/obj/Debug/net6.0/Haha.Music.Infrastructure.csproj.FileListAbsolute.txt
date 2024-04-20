@@ -1,0 +1,17 @@
+E:\Haha.Music\Haha.Music\Haha.Music.Infrastructure\bin\Debug\net6.0\Haha.Music.Infrastructure.deps.json
+E:\Haha.Music\Haha.Music\Haha.Music.Infrastructure\bin\Debug\net6.0\Haha.Music.Infrastructure.dll
+E:\Haha.Music\Haha.Music\Haha.Music.Infrastructure\bin\Debug\net6.0\Haha.Music.Infrastructure.pdb
+E:\Haha.Music\Haha.Music\Haha.Music.Infrastructure\bin\Debug\net6.0\Haha.Music.Application.dll
+E:\Haha.Music\Haha.Music\Haha.Music.Infrastructure\bin\Debug\net6.0\Haha.Music.Domain.dll
+E:\Haha.Music\Haha.Music\Haha.Music.Infrastructure\bin\Debug\net6.0\Haha.Music.Application.pdb
+E:\Haha.Music\Haha.Music\Haha.Music.Infrastructure\bin\Debug\net6.0\Haha.Music.Domain.pdb
+E:\Haha.Music\Haha.Music\Haha.Music.Infrastructure\obj\Debug\net6.0\Haha.Music.Infrastructure.csproj.AssemblyReference.cache
+E:\Haha.Music\Haha.Music\Haha.Music.Infrastructure\obj\Debug\net6.0\Haha.Music.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Haha.Music\Haha.Music\Haha.Music.Infrastructure\obj\Debug\net6.0\Haha.Music.Infrastructure.AssemblyInfoInputs.cache
+E:\Haha.Music\Haha.Music\Haha.Music.Infrastructure\obj\Debug\net6.0\Haha.Music.Infrastructure.AssemblyInfo.cs
+E:\Haha.Music\Haha.Music\Haha.Music.Infrastructure\obj\Debug\net6.0\Haha.Music.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Haha.Music\Haha.Music\Haha.Music.Infrastructure\obj\Debug\net6.0\Haha.Music.Infrastructure.csproj.CopyComplete
+E:\Haha.Music\Haha.Music\Haha.Music.Infrastructure\obj\Debug\net6.0\Haha.Music.Infrastructure.dll
+E:\Haha.Music\Haha.Music\Haha.Music.Infrastructure\obj\Debug\net6.0\refint\Haha.Music.Infrastructure.dll
+E:\Haha.Music\Haha.Music\Haha.Music.Infrastructure\obj\Debug\net6.0\Haha.Music.Infrastructure.pdb
+E:\Haha.Music\Haha.Music\Haha.Music.Infrastructure\obj\Debug\net6.0\ref\Haha.Music.Infrastructure.dll

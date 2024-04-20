@@ -1,0 +1,17 @@
+E:\Haha.Music\Haha.Music\Haha.Music.Persistence\bin\Debug\net6.0\Haha.Music.Persistence.deps.json
+E:\Haha.Music\Haha.Music\Haha.Music.Persistence\bin\Debug\net6.0\Haha.Music.Persistence.dll
+E:\Haha.Music\Haha.Music\Haha.Music.Persistence\bin\Debug\net6.0\Haha.Music.Persistence.pdb
+E:\Haha.Music\Haha.Music\Haha.Music.Persistence\bin\Debug\net6.0\Haha.Music.Application.dll
+E:\Haha.Music\Haha.Music\Haha.Music.Persistence\bin\Debug\net6.0\Haha.Music.Domain.dll
+E:\Haha.Music\Haha.Music\Haha.Music.Persistence\bin\Debug\net6.0\Haha.Music.Application.pdb
+E:\Haha.Music\Haha.Music\Haha.Music.Persistence\bin\Debug\net6.0\Haha.Music.Domain.pdb
+E:\Haha.Music\Haha.Music\Haha.Music.Persistence\obj\Debug\net6.0\Haha.Music.Persistence.csproj.AssemblyReference.cache
+E:\Haha.Music\Haha.Music\Haha.Music.Persistence\obj\Debug\net6.0\Haha.Music.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Haha.Music\Haha.Music\Haha.Music.Persistence\obj\Debug\net6.0\Haha.Music.Persistence.AssemblyInfoInputs.cache
+E:\Haha.Music\Haha.Music\Haha.Music.Persistence\obj\Debug\net6.0\Haha.Music.Persistence.AssemblyInfo.cs
+E:\Haha.Music\Haha.Music\Haha.Music.Persistence\obj\Debug\net6.0\Haha.Music.Persistence.csproj.CoreCompileInputs.cache
+E:\Haha.Music\Haha.Music\Haha.Music.Persistence\obj\Debug\net6.0\Haha.Music.Persistence.csproj.CopyComplete
+E:\Haha.Music\Haha.Music\Haha.Music.Persistence\obj\Debug\net6.0\Haha.Music.Persistence.dll
+E:\Haha.Music\Haha.Music\Haha.Music.Persistence\obj\Debug\net6.0\refint\Haha.Music.Persistence.dll
+E:\Haha.Music\Haha.Music\Haha.Music.Persistence\obj\Debug\net6.0\Haha.Music.Persistence.pdb
+E:\Haha.Music\Haha.Music\Haha.Music.Persistence\obj\Debug\net6.0\ref\Haha.Music.Persistence.dll

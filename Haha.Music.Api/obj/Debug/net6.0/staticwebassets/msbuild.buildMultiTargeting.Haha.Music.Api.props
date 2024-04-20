@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Haha.Music.Api.props" />
+</Project>
